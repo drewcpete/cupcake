@@ -1,0 +1,9 @@
+ul.fancy {
+  font-weight: bold;
+}
+
+.fancy {
+  font-family: monospace;
+  font-style: oblique;
+  color: darkblue;
+}
